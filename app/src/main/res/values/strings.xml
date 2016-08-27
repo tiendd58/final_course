@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartRestaurant</string>
+    <string name="minimum_password">password has lest 6 character</string>
+    <string name="auth_failed">email or password is incorrect</string>
+    <string name="btn_back">back</string>
+    <string name="btn_reset_password">Reset</string>
+    <string name="forgot_password_msg">Forgot password</string>
+    <string name="lbl_forgot_password">forgot password</string>
+    <string name="description_reset_password">We just need your registered Email Id to sent you password reset instructions</string>
+</resources>
